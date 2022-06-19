@@ -1,0 +1,16 @@
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\bin\Debug\net5.0\Exercicio_Maior_Idade.exe
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\bin\Debug\net5.0\Exercicio_Maior_Idade.deps.json
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\bin\Debug\net5.0\Exercicio_Maior_Idade.runtimeconfig.json
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\bin\Debug\net5.0\Exercicio_Maior_Idade.runtimeconfig.dev.json
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\bin\Debug\net5.0\Exercicio_Maior_Idade.dll
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\bin\Debug\net5.0\ref\Exercicio_Maior_Idade.dll
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\bin\Debug\net5.0\Exercicio_Maior_Idade.pdb
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\net5.0\Exercicio_Maior_Idade.csproj.AssemblyReference.cache
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\net5.0\Exercicio_Maior_Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\net5.0\Exercicio_Maior_Idade.AssemblyInfoInputs.cache
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\net5.0\Exercicio_Maior_Idade.AssemblyInfo.cs
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\net5.0\Exercicio_Maior_Idade.csproj.CoreCompileInputs.cache
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\net5.0\Exercicio_Maior_Idade.dll
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\net5.0\ref\Exercicio_Maior_Idade.dll
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\net5.0\Exercicio_Maior_Idade.pdb
+C:\Projetos_C#\Exercicio_Maior_Idade\Exercicio_Maior_Idade\obj\Debug\net5.0\Exercicio_Maior_Idade.genruntimeconfig.cache
